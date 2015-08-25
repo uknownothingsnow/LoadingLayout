@@ -2,6 +2,8 @@
 
 方便的切换到加载中，空页面，出错页面和内容页面
 
+![效果图](https://github.com/XMFE-TEAM/LoadingLayout/raw/master/demo/demo.gif)
+
 LoadingLayout集成自Framelayout，默认把第一个子view当做内容视图，其他的子view会被忽略
 
 使用如下：

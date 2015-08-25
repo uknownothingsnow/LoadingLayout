@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <item name="btn_empty_retry" type="id"/>
+  <item name="btn_error_retry" type="id"/>
+</resources>
